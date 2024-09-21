@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://-banteng369-menyala.pages.dev/sitemap.xml
+Sitemap: https://banteng369-menyala.pages.dev/sitemap.xml
